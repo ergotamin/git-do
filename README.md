@@ -1,0 +1,3 @@
+# gitctl - a github.com APIv3 commandline tool
+
+\*\*to be added...
